@@ -1,7 +1,7 @@
 version: "3.3"
 services:
   app:
-    image: buiquanglam/nginx:latest
+    image: thanhnamdev308/nginx:latest
     ports:
       - "80:80"
 
